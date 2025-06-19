@@ -39,27 +39,25 @@ uv run pytest tests/
 uv build
 ```
 
-> Лицензия: MIT
-```
+### Лицензия: MIT
+Распространяется под лицензией MIT. См. файл LICENSE.
 
-Этот README:
+### Этот README:
 - Краткий и информативный
 - Содержит все необходимые команды
 - Четко разделяет способы установки
 - Перечисляет все доступные игры
 - Включает инструкции для разработчиков
 
-## Проверка на чётность
-[![asciicast](https://asciinema.org/a/XXXXXX.svg)](https://asciinema.org/a/XXXXXX)
+### Примеры игр с помощью Asciinema:
 
-## Калькулятор
+1. Проверка на чётность
 [![asciicast](https://asciinema.org/a/XXXXXX.svg)](https://asciinema.org/a/XXXXXX)
-
-## Наибольший общий делитель
+2. Калькулятор
 [![asciicast](https://asciinema.org/a/XXXXXX.svg)](https://asciinema.org/a/XXXXXX)
-
-## Арифметическая прогрессия
+3. Наибольший общий делитель
 [![asciicast](https://asciinema.org/a/XXXXXX.svg)](https://asciinema.org/a/XXXXXX)
-
-## Простое ли число?
+4. Арифметическая прогрессия
+[![asciicast](https://asciinema.org/a/XXXXXX.svg)](https://asciinema.org/a/XXXXXX)
+5. Простое ли число?
 [![asciicast](https://asciinema.org/a/XXXXXX.svg)](https://asciinema.org/a/XXXXXX)
