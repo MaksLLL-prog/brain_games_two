@@ -1,17 +1,34 @@
-# .gitignore
-# IDE
+# === IDE и редакторы ===
 .idea/
 .vscode/
 *.code-workspace
 
-# Python
+# === Python ===
 __pycache__/
 *.py[cod]
 *.egg-info/
 dist/
 build/
 .env
+.pytest_cache/
+.mypy_cache/
 
-# Системные
+# === Системные файлы ===
 .DS_Store
 *.swp
+*.swo
+*~
+
+# === Логи и временные файлы ===
+*.log
+*.tmp
+*.bak
+
+# === UV и сборка ===
+.uv/
+.venv/
+venv/
+
+# === Docker ===
+docker-compose.yml
+.dockerignore

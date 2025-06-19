@@ -1,10 +1,15 @@
-```markdown
 # Brain Games
 
-### Установка (локальная)
+### 🔧 Установка необходимых инструментов
+
+**Сначала установите uv и скопируйте репозиторий:**
 ```bash
 git clone https://github.com/ваш-username/brain-games.git
-cd brain-games
+pip install uv
+
+- Потом приступайте к дальнейшем шагам:
+
+cd brain_games_two
 uv sync
 uv build
 uv tool install --force dist/*.whl
