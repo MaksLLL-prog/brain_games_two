@@ -4,7 +4,7 @@
 
 **Сначала установите uv и скопируйте репозиторий:**
 ```bash
-git clone https://github.com/ваш-username/brain-games.git
+gh repo clone MaksLLL-prog/brain_games_two
 pip install uv
 
 - Потом приступайте к дальнейшем шагам:
