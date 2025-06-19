@@ -1,0 +1,17 @@
+# .gitignore
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+
+# Системные
+.DS_Store
+*.swp
