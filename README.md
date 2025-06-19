@@ -40,7 +40,9 @@ uv build
 ```
 
 ### Лицензия: MIT
-Распространяется под лицензией MIT. См. файл LICENSE.
+```bash
+Распространяется под лицензией MIT. См. файл LICENSE. (https://github.com/MaksLLL-prog/brain_games_two/blob/main/LICENSE)
+```
 
 ### Этот README:
 - Краткий и информативный
@@ -50,7 +52,7 @@ uv build
 - Включает инструкции для разработчиков
 
 ### Примеры игр с помощью Asciinema:
-
+```bash
 1. Проверка на чётность
 [![asciicast](https://asciinema.org/a/XXXXXX.svg)](https://asciinema.org/a/XXXXXX)
 2. Калькулятор
@@ -61,3 +63,4 @@ uv build
 [![asciicast](https://asciinema.org/a/XXXXXX.svg)](https://asciinema.org/a/XXXXXX)
 5. Простое ли число?
 [![asciicast](https://asciinema.org/a/XXXXXX.svg)](https://asciinema.org/a/XXXXXX)
+```
