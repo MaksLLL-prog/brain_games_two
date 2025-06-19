@@ -37,13 +37,6 @@ uv tool uninstall brain-games  # Локально
 docker rmi brain-games        # Docker
 ```
 
-### Разработка
-```bash
-uv sync --editable
-uv run pytest tests/
-uv build
-```
-
 ### Лицензия: MIT
 ```bash
 Распространяется под лицензией MIT. См. файл LICENSE.
